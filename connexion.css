@@ -1,0 +1,71 @@
+.row{
+    background-color: #041a6f;
+    opacity: 0.8;
+    width: 100%;
+    height: 100vh;
+}
+.entete{
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    margin: 20px;
+    padding-top: 40px;
+    color: white;
+}
+.entete h5{
+    padding: 15px;
+}
+.intitule h2{
+    text-align: center;
+    margin-top: -30px;
+    text-transform: capitalize;
+    color: #d90518;
+    /* text-shadow: 2px 1px 2px white; */
+}
+.formulaire form{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    padding: 60px;
+    border-radius: 5px;
+    margin-top: -90px;
+}
+form label{
+    color: #d90518;
+    display: flex;
+    padding-top: 10px;
+    font-size: 1.1rem;
+    font-weight: 20px;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form button{
+    width: 60%;
+    margin-top: 10px;
+    box-shadow: 1x 1px 1px white;
+    background-color: #d90518;
+    color: #041a6f;
+    border-radius: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+form input{
+    border-radius: 5px;
+    width: 60%;
+}
+.entete h5{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.8rem;
+    padding-top: -80px;
+    margin-top: -20px;
+    text-decoration: double;
+}
+form{
+    margin-top: -5px;
+    
+}
+.formulaire{
+    margin-top: -20px;
+}
